@@ -1,6 +1,6 @@
 **📚💻 Cursando Bacharelado em Ciência da Computação 2/8 | Centro Universitário Gran**
 
-# SOBRE MIM:
+ # SOBRE MIM:
 
 <p align="center">
   Sou uma pessoa curiosa e observadora,apaixonada por tecnologia,almejando resolver problemas reais com soluções inovadoras por meio do código.  
@@ -8,7 +8,7 @@ Tenho interesse genuíno nas áreas de : desenvolvimento de software, cibersegur
 </p>
 
 
- ## TECNOLOGIAS/FERRAMENTAS :
+ ## TECNOLOGIAS/FERRAMENTAS QUE ESTOU APREENDENDO  :
 <p align="center">
 <!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="37" height="37"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="37" height="37"/>
