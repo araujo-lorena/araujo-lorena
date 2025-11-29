@@ -1,10 +1,10 @@
-**📚💻 Cursando Bacharelado em Ciência da Computação 2/8 | Centro Universitário Gran**
+**📚💻 Cursando Bacharelado em Ciência da Computação 2/8 | GRAN Centro Universitário**
 
  # SOBRE MIM:
 
 <p align="center">
   Sou uma pessoa curiosa e observadora,apaixonada por tecnologia,almejando resolver problemas reais com soluções inovadoras por meio do código.  
-Tenho interesse genuíno nas áreas de : desenvolvimento de software, cibersegurança e robótica.
+Tenho interesse genuíno nas áreas de : cibersegurança,desenvolvimento de software e robótica.
 </p>
 
 
