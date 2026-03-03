@@ -1,4 +1,4 @@
-**📚💻 Cursando Bacharelado em Ciência da Computação 2/8 | GRAN Centro Universitário**
+**📚💻 Cursando Bacharelado em Ciência da Computação 3/8 | GRAN Centro Universitário**
 
  # SOBRE MIM:
 
