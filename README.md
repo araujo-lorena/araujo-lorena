@@ -2,6 +2,8 @@
 
 ```python
 
+from curosity import Lorena
+
 class AboutMe:
 
 profile =
@@ -22,9 +24,7 @@ period = "3"
 
 location = "Brazil"
 
-focus =["Cybersecuryty","Backend Development"]
-
-
+focus =["Cybersecurity","Backend Development"]
 
 ```
 
@@ -59,11 +59,11 @@ goal = []
 
 class Hobbies:
 
-hobbies =["music","reading","podcasts","technology","movies,series and documentaries","gym"
+hobbies =["music","reading","podcasts","technology","movies,series and documentaries","gym"]
 
 ```
 
-## Estatísticas
+
  
   
 
