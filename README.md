@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img width="2570" height="1444" alt="chapeu_palha " src="https://github.com/user-attachments/assets/df73e9ce-18d2-4717-b6a1-ffb8c94e5331" />
+  <img width="100%" alt="chapeu_palha " src="https://github.com/user-attachments/assets/df73e9ce-18d2-4717-b6a1-ffb8c94e5331" />
 </div>
 
 
