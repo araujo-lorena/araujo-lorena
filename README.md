@@ -7,8 +7,8 @@ class AboutMe:
 profile =
 
 {
-name = "Lorena N Araújo"
-email = "lorenaaraujotech@gmail.com"
+name = "Lorena N Araújo",
+email = "lorenaaraujotech@gmail.com",
 role = "Computer Science Student"
 }
 
