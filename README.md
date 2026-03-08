@@ -30,31 +30,43 @@ Tenho interesse genuíno nas áreas de : cibersegurança,desenvolvimento de soft
 
 
 
+<!-- TOPO DO T -->
+<div style="background:#7C3AED; height:70px; width:100%; border-radius:12px 12px 0 0;"></div>
 
+<!-- CORPO -->
+<table width="100%" style="border-collapse:collapse;">
 
-<div style="background:#6C3BFF; padding:25px; border-radius:10px;">
-
-<table>
 <tr>
 
-<td width="70%">
+<!-- LADO ESQUERDO (MAIOR) -->
+<td width="70%" style="background:#22c55e; padding:30px; vertical-align:top;">
 
-<h2 style="color:white;">Uai 👋</h2>
+<h2>Uai 👋</h2>
 
-<p style="color:white;">
-Seja bem-vindo ao meu GitHub.<br>
-Estudante de Ciência da Computação focada em Cybersecurity e Backend.
+<p>
+Bem-vindo ao meu GitHub.<br><br>
+
+Estudante de Ciência da Computação focada em <b>Cybersecurity</b> e 
+<b>Backend Development</b>.
+
+Explorando sistemas, construindo projetos e aprendendo como proteger
+o que roda por trás da internet.
 </p>
 
 </td>
 
-<td width="30%" align="center">
+<!-- LADO DIREITO (MENOR) -->
+<td width="30%" align="center" style="background:#22c55e; padding:30px;">
 
-<img src="LINK_DA_SUA_FOTO" width="120" style="border-radius:50%; border:3px solid white;">
+<img src="LINK_DA_SUA_IMAGEM"
+width="140"
+style="border-radius:50%; border:4px solid white;">
 
 </td>
 
 </tr>
+
 </table>
 
-</div>
+
+
