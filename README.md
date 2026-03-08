@@ -30,43 +30,18 @@ Tenho interesse genuíno nas áreas de : cibersegurança,desenvolvimento de soft
 
 
 
-<!-- TOPO DO T -->
-<div style="background:#7C3AED; height:70px; width:100%; border-radius:12px 12px 0 0;"></div>
+## Sobre Mim
 
-<!-- CORPO -->
-<table width="100%" style="border-collapse:collapse;">
+class AboutMe {
+name = 
+rolr = 
+location =
 
-<tr>
 
-<!-- LADO ESQUERDO (MAIOR) -->
-<td width="70%" style="background:#22c55e; padding:30px; vertical-align:top;">
+ 
+  
 
-<h2>Uai 👋</h2>
 
-<p>
-Bem-vindo ao meu GitHub.<br><br>
-
-Estudante de Ciência da Computação focada em <b>Cybersecurity</b> e 
-<b>Backend Development</b>.
-
-Explorando sistemas, construindo projetos e aprendendo como proteger
-o que roda por trás da internet.
-</p>
-
-</td>
-
-<!-- LADO DIREITO (MENOR) -->
-<td width="30%" align="center" style="background:#22c55e; padding:30px;">
-
-<img src="LINK_DA_SUA_IMAGEM"
-width="140"
-style="border-radius:50%; border:4px solid white;">
-
-</td>
-
-</tr>
-
-</table>
 
 
 
