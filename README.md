@@ -4,14 +4,23 @@
 
 class AboutMe:
 
+name = "Lorena N Araújo"
+email = "lorenaaraujotech@gmail.com"
+role = "Computer Science Student"
+
+education =
+
 {
-name = ""
-email = ""
-role = ""
-location = ""
-focus = [ ""]
-motto = ""
+program = "Computer Science"
+university = "GRAN Centro Universitario"
+period = "3"
 }
+
+location = "Brazil"
+
+focus =["Cybersecuryty","Backend Development"]
+
+
 
 ```
 
