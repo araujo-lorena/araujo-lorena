@@ -4,9 +4,13 @@
 
 class AboutMe:
 
+profile =
+
+{
 name = "Lorena N Araújo"
 email = "lorenaaraujotech@gmail.com"
 role = "Computer Science Student"
+}
 
 education =
 
@@ -29,13 +33,13 @@ focus =["Cybersecuryty","Backend Development"]
 ```python
 
 class Skkils:
-{
-languages = []
-tools = []
-concepts = []
-cybersegurity = []
-backend = []
-}
+
+languages = ["Python"]
+tools = ["Git","Github","VS Code"]
+systems = []
+cybersegurity = ["Networking basics","Cybersecurity Fundamentals"]
+backend = ["FastAPI"]
+
 ```
 
 ## Projetos
@@ -44,11 +48,9 @@ backend = []
 
 class Projects:
 
-{
 current = []
 goal = []
 
-}
 ```
 
 ## Hobbies
@@ -56,6 +58,8 @@ goal = []
 ```python
 
 class Hobbies:
+
+hobbies =["music","reading","podcasts","technology","movies,series and documentaries","gym"
 
 ```
 
