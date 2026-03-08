@@ -28,3 +28,33 @@ Tenho interesse genuíno nas áreas de : cibersegurança,desenvolvimento de soft
 - 🎬 Filmes|Séries|Animes
 - 💪 Gym
 
+
+
+
+
+<div style="background:#6C3BFF; padding:25px; border-radius:10px;">
+
+<table>
+<tr>
+
+<td width="70%">
+
+<h2 style="color:white;">Uai 👋</h2>
+
+<p style="color:white;">
+Seja bem-vindo ao meu GitHub.<br>
+Estudante de Ciência da Computação focada em Cybersecurity e Backend.
+</p>
+
+</td>
+
+<td width="30%" align="center">
+
+<img src="LINK_DA_SUA_FOTO" width="120" style="border-radius:50%; border:3px solid white;">
+
+</td>
+
+</tr>
+</table>
+
+</div>
