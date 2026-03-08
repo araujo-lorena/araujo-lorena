@@ -6,6 +6,7 @@ class AboutMe:
 
 {
 name = ""
+email = ""
 role = ""
 location = ""
 focus = [ ""]
