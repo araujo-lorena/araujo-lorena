@@ -17,8 +17,8 @@ role = "Computer Science Student"
 education =
 
 {
-program = "Computer Science"
-university = "GRAN Centro Universitario"
+program = "Computer Science",
+university = "GRAN Centro Universitario",
 period = "3"
 }
 
