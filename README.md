@@ -55,7 +55,7 @@ backend = ["FastAPI"]
 
 class Projects:
 
-current = ["InovaGRAN"]
+current = ["InovaGRAN","JobMatch-AI"]
 goal = []
 
 ```
